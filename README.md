@@ -86,3 +86,8 @@ GitHub: openai-gpt-google-sheets-integration
 You can clone it using:
 git clone https://github.com/aliminagar/openai-gpt-google-sheets-integration.git
 
+## 📄 Google Sheet Demo
+
+Here’s a live demo of the Google Sheets integration:  
+[🔗 View Sheet](https://docs.google.com/spreadsheets/d/1o4e89HYO1L7f60T1jfd3xEiER_XcNf_PRx2DdIcbPb0/edit?usp=sharing)
+
