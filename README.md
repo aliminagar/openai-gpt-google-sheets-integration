@@ -13,6 +13,8 @@ ________________________________________
 •	GPT_EXTRACT.gs: Extracts structured info from text.
 •	GPT_CLASSIFY.gs: Classifies text using OpenAI.
 •	GPT.gs.gs: Utility functions.
+
+For the codes please use the contents of this file in the repo: google-apps-script-code.txt
 ________________________________________
 🔧 Setup Instructions
 1. Link to Google Sheet
